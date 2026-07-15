@@ -1,2 +1,1 @@
-# Basic-Knowledge
-Basic IT knowledge
+Okta
